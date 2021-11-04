@@ -1,0 +1,7 @@
+Keto;Mac and Cheese;Cauliflower,Olive Oil,Shredded Cheddar Cheese,Butter,Black Pepper
+Vegan;Tomato Soup;Onions,Garlic,Tomatoes,Coconut,Olive Oil,Jalapeño
+Low Carb;Pesto Chicken;Chicken Breast,Basil,Pine Nuts,Parmesan Cheese,Olive Oil
+Paleo;Shrimp Scampi;Shrimp,Ghee,Garlic,White Wine,Butter,Black Pepper
+Keto;Fruit Salad;Grapes,Blueberry,Strawberry,Melon
+Vegan;Roasted Corn;Corn,Olive Oil,Black Pepper,Onions,Salt
+Vegan;Salad;Onions,Tomatoes,Lettuce,Olive Oil,Bell Peppers
